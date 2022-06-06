@@ -1,4 +1,4 @@
-# Version 2.0
+# Version 3.0
 #-*-coding:utf-8-*-
 
 # 필요한 라이브러리를 불러옵니다.
